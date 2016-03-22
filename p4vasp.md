@@ -26,28 +26,29 @@ It is possible to perform a rotation around the axe of a bond with p4vasp which 
 
 1. Open the file containing the geometrical informations.
 2. Visualize it with the "Show" icon.
-3. Select, within the "Edit" menu, "Rotate atoms"
-
- <img src="/images/Selection1.png" alt="Selection" width="1000">
-
-4. Select the atom that will remain fixed during the rotation. Here, the carbon on the right side of the but-1-ene adsorbed molecule.
-
-The selection is rather tricky in p4vasp. You have two possibilities: if you know the orders of your atomes in your input files, you can type it directly in the "Selection" part. But the simplest way is to use the graphical representation and press the space bar on the keyboard when the cursor is over the atom you want to select.
-
-Once the atoms are selected, they appear striped.
-
- <img src="/images/Selection2.png" alt="Selection" width="1000">
-
-5. Select then the other atoms. Here, a methyl group of an adsorbed alkene is selected.
-
- <img src="/images/Selection3.png" alt="Selection" width="1000">
-
-6. Once all your atoms are selected, you can click on "Get group". The center (the first atom you selected) and the group selected for rotation appear in the Applet.
-
- <img src="/images/Selection4.png" alt="Selection" width="1000">
-
-7. Then, you have to select the second atom from the bond which define the axis of rotation. Select it as you selected the previous atoms. The axis vector will be computed automatically.
-
- <img src="/images/Selection5.png" alt="Selection" width="1000">
-
+3. Select, within the "Edit" menu, "Rotate atoms"  
+&nbsp;  
+ <img src="/images/Selection1.png" alt="Selection" width="1000">  
+&nbsp;    
+4. Select the atom that will remain fixed during the rotation. Here, the carbon on the right side of the but-1-ene adsorbed molecule.  
+&nbsp;  
+The selection is rather tricky in p4vasp. You have two possibilities: if you know the orders of your atomes in your input files, you can type it directly in the "Selection" part. But the simplest way is to use the graphical representation and press the space bar on the keyboard when the cursor is over the atom you want to select.  
+&nbsp;  
+Once the atoms are selected, they appear striped.  
+&nbsp;  
+ <img src="/images/Selection2.png" alt="Selection" width="1000">  
+&nbsp;  
+5. Select then the other atoms. Here, a methyl group of an adsorbed alkene is selected.  
+&nbsp;  
+ <img src="/images/Selection3.png" alt="Selection" width="1000">  
+&nbsp;  
+6. Once all your atoms are selected, you can click on "Get group". The center (the first atom you selected) and the group selected for rotation appear in the Applet.  
+&nbsp;  
+ <img src="/images/Selection4.png" alt="Selection" width="1000">  
+&nbsp;  
+7. Then, you have to select the second atom from the bond which define the axis of rotation. Select it as you selected the previous atoms. The axis vector will be computed automatically.  
+&nbsp;  
+ <img src="/images/Selection5.png" alt="Selection" width="1000">  
+&nbsp;  
 8. The rest is straightforward: by typind and angle and clicking on "rotate", you will generate a rotation of the atoms (here, the three hydrogen atoms selected) around the axe of the C-C bond. 
+  
