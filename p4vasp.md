@@ -18,6 +18,30 @@ By default, p4vasp will look for .xml files when it starts, for instance vasprun
 
 If your current folder directory contains .xml files not related to Vasp, it may generate various error messages. Remove those files and it should behave better.
 
+# Velocity Autocorrelation Function (VAC) #
+
+One of the most powerful tool in P4Vasp is the possibility to calculate the autocorrelation of all the velocities in a system just with a few clicks. For molecular dynamics results, this autocorrelation can be usefull, especially for Infra-Red measurements. Here is how to use it: 
+
+1. Firstly, the autocorrelation can be obtained only from the vasprun.xml file resulting for a finished calculation. If your molecular dynamics was aborted before reaching its last step, then you have to modify the end of your vasprun.xml file. <a href="https://github.com/dacornu/MDvasptools/blob/master/nice-termination.py">Here</a> is a little tool written in Python 2.7 to get a proper termination for files recovered from unfinished run.
+
+2. Once the file is loaded, you can look at the evolution of the system in time (see part ...) and also choose the "VAC" option in the "MD" menu. 
+
+3. Then, the autocorrelation can be calculated for all the atoms simply with the "Read VAC" button. 
+
+ <img src="VAC1.png" alt="Selection" width="1000">
+
+4. For a molecular dynamics with N steps, the autocorrelation will be calculated with N-2 positions. Here is a molecular dynamics over 1000 steps.
+&nbsp; 
+ <img src="VAC2.png" alt="Selection" width="1000">
+&nbsp; 
+5. The Fourier Transformation can be obtained by the "FFT" button and will display useful information about the frequencies existing in the system.
+&nbsp; 
+ <img src="VAC3.png" alt="Selection" width="1000">
+&nbsp; 
+6. To get the data in a usable form, the photo camera button will three files, a postscript picture, a dat file with the data and a file with a .agr extension describing the graph.
+
+ <img src="VAC4.png" alt="Selection" width="1000">
+
 # Rotate around one bond with p4vasp #
 
 Rotation around the axe of a bond.
