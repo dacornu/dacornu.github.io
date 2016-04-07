@@ -28,19 +28,19 @@ One of the most powerful tool in P4Vasp is the possibility to calculate the auto
 
 3. Then, the autocorrelation can be calculated for all the atoms simply with the "Read VAC" button. 
 &nbsp; 
- <img src="VAC1.png" alt="Velocity autocorrelation" width="1000">
+ <img src="/images/VAC1.png" alt="Velocity autocorrelation" width="1000">
 &nbsp; 
 4. For a molecular dynamics with N steps, the autocorrelation will be calculated with N-2 positions. Here is a molecular dynamics over 1000 steps.
 &nbsp; 
- <img src="VAC2.png" alt="Velocity autocorrelation" width="1000">
+ <img src="/images/VAC2.png" alt="Velocity autocorrelation" width="1000">
 &nbsp; 
 5. The Fourier Transformation can be obtained by the "FFT" button and will display useful information about the frequencies existing in the system.
 &nbsp; 
- <img src="VAC3.png" alt="Velocity autocorrelation" width="1000">
+ <img src="/images/VAC3.png" alt="Velocity autocorrelation" width="1000">
 &nbsp; 
 6. To get the data in a usable form, the photo camera button will three files, a postscript picture, a dat file with the data and a file with a .agr extension describing the graph.
 
- <img src="VAC4.png" alt="Velocity autocorrelation" width="1000">
+ <img src="/images/VAC4.png" alt="Velocity autocorrelation" width="1000">
 
 # Rotate around one bond with p4vasp #
 
