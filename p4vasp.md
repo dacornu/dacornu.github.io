@@ -27,10 +27,12 @@ One of the most powerful tool in P4Vasp is the possibility to calculate the auto
 2. Once the file is loaded, you can look at the evolution of the system in time (see part ...) and also choose the "VAC" option in the "MD" menu. 
 
 3. Then, the autocorrelation can be calculated for all the atoms simply with the "Read VAC" button. 
+
 &nbsp; 
  <img src="/images/VAC1.png" alt="Velocity autocorrelation" width="600">
 &nbsp; 
 4. For a molecular dynamics with N steps, the autocorrelation will be calculated with N-2 positions. Here is a molecular dynamics over 1000 steps.
+
 &nbsp; 
  <img src="/images/VAC2.png" alt="Velocity autocorrelation" width="600">
 &nbsp; 
