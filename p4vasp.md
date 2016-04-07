@@ -35,6 +35,7 @@ One of the most powerful tool in P4Vasp is the possibility to calculate the auto
 &nbsp; 
 
  <img src="/images/VAC2.png" alt="Velocity autocorrelation" width="600">
+
 &nbsp; 
 5. The Fourier Transformation can be obtained by the "FFT" button and will display useful information about the frequencies existing in the system.
 &nbsp; 
