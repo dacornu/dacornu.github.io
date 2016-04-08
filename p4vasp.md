@@ -30,6 +30,7 @@ One of the most powerful tool in P4Vasp is the possibility to calculate the auto
 &nbsp; 
 
  <img src="/images/VAC1.png" alt="Velocity autocorrelation" width="600">
+
 &nbsp; 
 4. For a molecular dynamics with N steps, the autocorrelation will be calculated with N-2 positions. Here is a molecular dynamics over 1000 steps.
 &nbsp; 
@@ -41,6 +42,7 @@ One of the most powerful tool in P4Vasp is the possibility to calculate the auto
 &nbsp; 
 
  <img src="/images/VAC3.png" alt="Velocity autocorrelation" width="600">
+
 &nbsp; 
 6. To get the data in a usable form, the photo camera button will three files, a postscript picture, a dat file with the data and a file with a .agr extension describing the graph.
 
