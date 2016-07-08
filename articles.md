@@ -5,7 +5,6 @@ permalink: /articles/
 ---
 <h1> Articles published </h1>
 
-<<<<<<< HEAD
 <img src="/images/epr.png" alt="PRL2016" width="300"><br />
 
 Damien Cornu, Jan Rocker, Anastasia Gonchar, Thomas Risse, and Hans-Joachim Freund, Location of Trapped Electron Centers in the Bulk of Epitaxial MgO(001) Films Grown on Mo(001) Using in situ W-band Electron Paramagnetic Resonance Spectroscopy, <br /> 
@@ -13,8 +12,6 @@ Damien Cornu, Jan Rocker, Anastasia Gonchar, Thomas Risse, and Hans-Joachim Freu
 Access: <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.016801">on the editor website</a> / <a href="dacornu.github.io/PRL2016.pdf">on this website</a>.<br />
 
 
-=======
->>>>>>> 8b023befb74dd46cb56609afa3f70bff05c11b9f
 <img src="/images/PCCP2015.gif" alt="PCCP2015" width="300"><br />
 
 Damien Cornu, Hazar Guesmi, Guillaume Laugel, Jean-Marc Krafft and H&eacute;l&egrave;ne Pernot, On the relationship between the basicity of a surface and its ability to catalyze transesterification in liquid and gas phases: the case of MgO, <br /> 
