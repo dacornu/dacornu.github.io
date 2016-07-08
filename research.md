@@ -62,13 +62,9 @@ Access: <a href="http://pubs.acs.org/doi/abs/10.1021/jp211171t">on the editor we
 My thesis is <a href="http://www.normalesup.org/~cornu/these-damien-cornu.pdf">avaible</a> on this website. The title was: "study of the parameters governing the reactivity of weak inorganic bases. Toward the transesterification reaction"
 
 <h1> Review </h1>
-<<<<<<< HEAD
 Reviewer for <a href="http://www.journals.elsevier.com/applied-catalysis-a-general/"> Applied Catalyis A </a> (1 review), <a href="http://adt.sagepub.com/">Adsorption Science and Technology</a> (1 review).
 
 
-=======
-Reviewer for <a href="http://www.journals.elsevier.com/applied-catalysis-a-general/"> Applied Catalyis A </a> (1 review).
->>>>>>> 8b023befb74dd46cb56609afa3f70bff05c11b9f
 <h1> Oral in national congress </h1>
 May 2012 "Mechanisms of the transesterification reaction in gas and liquid phase" during the congress of the French association for catalysis (<a href ="http://www.gecat.fr/">GECat</a>).
 <h1> Other speeches</h1> 
