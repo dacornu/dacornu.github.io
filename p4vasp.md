@@ -18,7 +18,7 @@ By default, p4vasp will look for .xml files when it starts, for instance vasprun
 
 If your current folder directory contains .xml files not related to Vasp, it may generate various error messages. Remove those files and it should behave better.
 
-#DOS Plot#
+## DOS Plot ##
 
 For the atom or orbital projected spin density, the minority density (negative values) can be displayed as positive values. This can be confusing for visualization of several atoms. The solution in this case is to export the data and use other software to get the right representation.
 
