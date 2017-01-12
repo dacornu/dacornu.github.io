@@ -80,4 +80,5 @@ Estelle (3 weeks, undergrad): kinetics and modelling for a model transesterifica
 Hocine (2 months, HND): liquid phase transesterification<br />
 <h1> Other </h1>
 Organisation of seminars for grad students (Paris-Centre Materials Institute), trainer for the XRD equipment.
+Member of the organizing comittee of the Young Researcher Meeting of the ETSF (https://yrm2017.github.io/) in May 2017, in Tarragona.
 
