@@ -31,16 +31,11 @@ permalink: /research/
 <br />
 <h1> Articles published </h1>
 
-<img src="/images/images/toc-chemcatchem.png" alt="ChemCatChem2017" width="400"><br />
+<img src="/images/toc-chemcatchem.png" alt="ChemCatChem2017" width="400"><br />
 
 Longfei Lin, Damien Cornu, Maya Mounir Daou, Cyril Domingos, Virginie Herledan, Jean-Marc Krafft, Guillaume Laugel, Yannick Millot and Hélène Lauron-Pernot, Role of Water on the Activity of Magnesium Silicate for Transesterification Reactions, <br /> 
 <i>Chem. Cat. Chem</i>, doi:10.1002/cctc.201700139 <br />
 Access: <a href="http://onlinelibrary.wiley.com/doi/10.1002/cctc.201700139/full">on the editor website</a>
-
-Damien Cornu, Longfei Lin, Maya Mounir Daou, Maguy Jaber, Jean-Marc Krafft, Virginie Herledan, Guillaume Laugel, Yannick Millot, and Hélène Lauron-Pernot, Influence of acid–base properties of Mg-based catalysts on transesterification: role of magnesium silicate hydrate formation, <br />
-<i>Catal. Sci. and Tech.</i>, doi:10.1039/C6CY02604D <br />
-Access: <a href="http://pubs.rsc.org/en/content/articlelanding/2017/cy/c6cy02604d">on the editor website</a>
-
 
 <img src="/images/TOC3.png" alt="CSI2017" width="400"><br />
 
